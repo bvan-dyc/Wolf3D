@@ -1,6 +1,6 @@
 # Wolf3D
 
-Simple reproduction of the original Wolfenstein3D game using raycasting techniques. Part of 42's graphic branch.
+Simple reproduction of the original Wolfenstein game using raycasting. Part of 42's graphic branch.
 
 ## Usage
 ```
