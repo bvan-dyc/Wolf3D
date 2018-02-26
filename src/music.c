@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../Includes/wolf3D.h"
+#include "../Includes/wolf3d.h"
 
 void	victorytracks(t_env *e)
 {
