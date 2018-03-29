@@ -1,6 +1,6 @@
 # Wolf3D
 
-Simple reproduction of the original Wolfenstein game using raycasting. Part of 42's graphic branch. Includes a Labyrinth minigame and a jukebox.
+Simple clone of the original Wolfenstein game using raycasting techniques. Part of 42's graphic branch. Includes a Labyrinth minigame and a jukebox.
 (*compilation requires the 42 graphic library: https://github.com/pbondoer/MinilibX*)
 
 ## Usage
